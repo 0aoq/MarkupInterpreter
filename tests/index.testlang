@@ -1,0 +1,5 @@
+<testlang>
+    <test mod="Hello, world!">?
+        <test2 mod="Hello, world! (2)">1234</test2>
+    </test>
+</testlang>
